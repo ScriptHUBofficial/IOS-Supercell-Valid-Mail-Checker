@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 
 namespace İos_APİ_Suppercell_Valid_Mail_Checker
@@ -13,16 +13,16 @@ namespace İos_APİ_Suppercell_Valid_Mail_Checker
             Console.Clear();
             string line = "\t";
             Console.Write("\n\n");
-            Colorful.Console.Write(@"░░░░░░░░░░░░░░░░░░░░░░░░░ Supercell Valid Mail Checker V.10 ░░░░░░░░░░░░░░░░░░░░░░░░" + "\n", _color3); 
-            Colorful.Console.Write(@"                                                                                    " + "\n", _color3);
-            Colorful.Console.Write(@"    ██████╗██╗   ██╗██████╗ ██████╗ ███████╗██████╗  █████╗ ███████╗██╗     ██╗     " + "\n", _color3); 
-            Colorful.Console.Write(@"   ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██║     ██║     " + "\n", _color3); 
-            Colorful.Console.Write(@"   ╚█████╗ ██║   ██║██████╔╝██████╔╝█████╗  ██████╔╝██║  ╚═╝█████╗  ██║     ██║     " + "\n", _color3); 
-            Colorful.Console.Write(@"    ╚═══██╗██║   ██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██╗██║  ██╗██╔══╝  ██║     ██║     " + "\n", _color3); 
-            Colorful.Console.Write(@"   ██████╔╝╚██████╔╝██║     ██║     ███████╗██║  ██║╚█████╔╝███████╗███████╗███████╗" + "\n", _color3); 
-            Colorful.Console.Write(@"   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚══════╝" + "\n", _color3);
-            Colorful.Console.Write(@"                                                                                    " + "\n", _color3);
-            Colorful.Console.Write(@"░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $criptHub @AstatiN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ " + "\n", _color3);
+            Colorful.Console.Write(@"        ░░░░░░░░░░░░░░░░░░░░░░░░░ Supercell Valid Mail Checker V.10 ░░░░░░░░░░░░░░░░░░░░░░░░" + "\n", _color3); 
+            Colorful.Console.Write(@"                                                                                            " + "\n", _color3);
+            Colorful.Console.Write(@"            ██████╗██╗   ██╗██████╗ ██████╗ ███████╗██████╗  █████╗ ███████╗██╗     ██╗     " + "\n", _color3); 
+            Colorful.Console.Write(@"           ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██║     ██║     " + "\n", _color3); 
+            Colorful.Console.Write(@"           ╚█████╗ ██║   ██║██████╔╝██████╔╝█████╗  ██████╔╝██║  ╚═╝█████╗  ██║     ██║     " + "\n", _color3); 
+            Colorful.Console.Write(@"            ╚═══██╗██║   ██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██╗██║  ██╗██╔══╝  ██║     ██║     " + "\n", _color3); 
+            Colorful.Console.Write(@"           ██████╔╝╚██████╔╝██║     ██║     ███████╗██║  ██║╚█████╔╝███████╗███████╗███████╗" + "\n", _color3); 
+            Colorful.Console.Write(@"           ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚══════╝" + "\n", _color3);
+            Colorful.Console.Write(@"                                                                                            " + "\n", _color3);
+            Colorful.Console.Write(@"        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $criptHub @AstatiN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ " + "\n", _color3);
         }
     }
 }
