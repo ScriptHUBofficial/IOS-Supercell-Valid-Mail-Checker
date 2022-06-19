@@ -1,0 +1,13 @@
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell Valid Mail Checker.csproj.AssemblyReference.cache
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell_Valid_Mail_Checker.Properties.Resources.resources
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell Valid Mail Checker.csproj.GenerateResource.cache
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell Valid Mail Checker.csproj.CoreCompileInputs.cache
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\bin\Debug\SuperCell Valid Mail Checker.exe.config
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\bin\Debug\SuperCell Valid Mail Checker.exe
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\bin\Debug\SuperCell Valid Mail Checker.pdb
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\bin\Debug\Colorful.Console.dll
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\bin\Debug\xNet.dll
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell Valid Mail Checker.csproj.CopyComplete
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell Valid Mail Checker.exe
+C:\Users\PANLI\source\repos\SuperCell Valid Mail Checker\SuperCell Valid Mail Checker\obj\Debug\SuperCell Valid Mail Checker.pdb
